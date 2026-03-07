@@ -228,7 +228,7 @@ If you use this model in your research or applications, please cite:
 - **Hugging Face Model:** https://huggingface.co/ankoor123/drug2
 - **GitHub Repository:** https://github.com/Ankoor11/Fine-Tuning-BERT-for-Drug-Related-Text-Classification
 - **Documentation:** See repository for training scripts, data generation, and evaluation code
-- **website:** here you can use this model
+- **website:** here you can use this model:https://drug-detection-system.vercel.app/text-report
 ---
 
 ## Support & Issues
@@ -247,7 +247,6 @@ For issues, questions, or suggestions:
 This model is provided for research and educational purposes. Users are responsible for ensuring compliance with applicable laws and regulations when using this model. The authors assume no liability for misuse or harmful applications.
 
 ---
- link - https://drug-detection-system.vercel.app/text-report
 ## Acknowledgments
 
 Built using the [Hugging Face Transformers](https://github.com/huggingface/transformers) library and trained on synthetically generated data.
