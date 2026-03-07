@@ -247,7 +247,7 @@ For issues, questions, or suggestions:
 This model is provided for research and educational purposes. Users are responsible for ensuring compliance with applicable laws and regulations when using this model. The authors assume no liability for misuse or harmful applications.
 
 ---
-
+ link - https://drug-detection-system.vercel.app/text-report
 ## Acknowledgments
 
 Built using the [Hugging Face Transformers](https://github.com/huggingface/transformers) library and trained on synthetically generated data.
