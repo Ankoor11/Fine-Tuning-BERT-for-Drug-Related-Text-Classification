@@ -228,7 +228,7 @@ If you use this model in your research or applications, please cite:
 - **Hugging Face Model:** https://huggingface.co/ankoor123/drug2
 - **GitHub Repository:** https://github.com/Ankoor11/Fine-Tuning-BERT-for-Drug-Related-Text-Classification
 - **Documentation:** See repository for training scripts, data generation, and evaluation code
-
+- **website:** here you can use this model
 ---
 
 ## Support & Issues
